@@ -21,10 +21,10 @@ A simple blog application's RESTful API built using Node.js, Express.js, and Mon
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
+ ```bash
    git clone https://github.com/shaik11r/enverx-be-developer-assignment.git
    cd src
+```
 1.Install dependencies
 
 ```bash 
