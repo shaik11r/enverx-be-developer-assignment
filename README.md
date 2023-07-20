@@ -50,8 +50,9 @@ Get a specific blog post by its ID.
 **POST** `/api/posts`
 
 Create a new blog post.
-title:should be more than 2 letters
-conent:should be more than 10 words
+
+### title: should be more than 2 letters
+### conent: should be more than 10 words
 
 **PUT** `/api/posts/:id`
 
